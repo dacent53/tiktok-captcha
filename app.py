@@ -16,7 +16,6 @@ os.environ["no_proxy"] = "127.0.0.1,localhost"
 
 BASE_URL = "https://m.tiktok.com/"
 
-
 class TikTokApi:
     __instance = None
 
